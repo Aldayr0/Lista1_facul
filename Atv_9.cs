@@ -15,7 +15,7 @@ namespace testeATV
             switch (numint)
             {
                 case 1:
-                    Console.WriteLine("Parabens você uma almofada do ben10");
+                    Console.WriteLine("Parabens você ganhou uma almofada do ben10");
                     break;
                 case 2:
                     Console.WriteLine("Parabens você ganhou um ps1");
